@@ -24,7 +24,7 @@ Write your yes/no question on each line, then check the host's answer.
  7. A: [ ] Yes  [X] No   Q: Is the thing expensive?
  8. A: [ ] Yes  [X] No   Q: Is it made out of wood?
  9. A: [ ] Yes  [X] No   Q: Is it a notebook?
-10. A: [ ] Yes  [ ] No   Q: 
+10. A: [ ] Yes  [ ] No   Q: Is it part of their personality in a good way?
 11. A: [ ] Yes  [ ] No   Q: 
 12. A: [ ] Yes  [ ] No   Q: 
 13. A: [ ] Yes  [ ] No   Q: 
