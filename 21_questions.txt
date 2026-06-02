@@ -16,7 +16,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ X] Thing  [ ] Animal
 Write your yes/no question on each line, then check the host's answer.
 
  1. A: [X ] Yes  [ ] No   Q: Can I physically touch this thing?
- 2. A: [ ] Yes  [ ] No   Q: Is the thing living or inanimate?
+ 2. A: [ ] Yes  [ ] No   Q: Is the thing living or not?
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [ ] Yes  [ ] No   Q: 
  5. A: [ ] Yes  [ ] No   Q: 
