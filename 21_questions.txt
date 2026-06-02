@@ -20,7 +20,7 @@ Write your yes/no question on each line, then check the host's answer.
  3. A: [X] Yes  [ ] No   Q: Is the thing used in school/university?
  4. A: [ ] Yes  [X] No   Q: Is the thing tech related?
  5. A: [ ] Yes  [X] No   Q: Can the thing be used in a math class?
- 6. A: [ ] Yes  [ ] No   Q: 
+ 6. A: [ ] Yes  [ ] No   Q: Will a student use the thing?
  7. A: [ ] Yes  [ ] No   Q: 
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
