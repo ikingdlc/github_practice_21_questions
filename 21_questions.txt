@@ -18,7 +18,7 @@ Write your yes/no question on each line, then check the host's answer.
  1. A: [ ] Yes  [X] No   Q: Is it in North America?
  2. A: [ ] Yes  [X] No   Q: Is it located in Europe?
  3. A: [ ] Yes  [X] No   Q: Is it located in Africa ?
- 4. A: [ ] Yes  [ ] No   Q: Is it locted in Asia?
+ 4. A: [X] Yes  [ ] No   Q: Is it locted in Asia?
  5. A: [ ] Yes  [ ] No   Q: 
  6. A: [ ] Yes  [ ] No   Q: 
  7. A: [ ] Yes  [ ] No   Q: 
