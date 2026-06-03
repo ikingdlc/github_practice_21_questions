@@ -25,7 +25,7 @@ Write your yes/no question on each line, then check the host's answer.
  8. A: [ ] Yes  [X] No   Q:Is it near Japan ?
  9. A: [ ] Yes  [X] No   Q: Has it appeared in the news recently?
 10. A: [ ] Yes  [X] No   Q: Does it start with the letter B?
-11. A: [ ] Yes  [ ] No   Q: 
+11. A: [ ] Yes  [ ] No   Q: Does it start with the letter P?
 12. A: [ ] Yes  [ ] No   Q: 
 13. A: [ ] Yes  [ ] No   Q: 
 14. A: [ ] Yes  [ ] No   Q: 
