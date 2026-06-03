@@ -22,7 +22,7 @@ Write your yes/no question on each line, then check the host's answer.
  5. A: [X] Yes  [ ] No   Q: Is it south Asia or not ?
  6. A: [ ] Yes  [X] No   Q: Is it a city ?
  7. A: [X] Yes  [ ] No   Q: Is it a country?
- 8. A: [ ] Yes  [ ] No   Q:Is it near Japan ?
+ 8. A: [ ] Yes  [X] No   Q:Is it near Japan ?
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
 11. A: [ ] Yes  [ ] No   Q: 
